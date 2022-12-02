@@ -15,3 +15,28 @@ h1, h2, h3 {
     text-transform: uppercase;
     color: darkorange;
 }
+
+#logo {
+    font-size: 320%;
+    margin: 0 auto;
+}
+
+#menu {
+    font-size: 150%;
+    letter-spacing: 4px;
+}
+
+#main-image {
+    height: 600px;
+    width: 100%;
+    background-image: url('../css/images/main-image.jpg') no-repeat center center;
+}
+
+#meet-points {
+    font-size: 100%;
+    letter-spacing: 4px;
+}
+
+.left-about-heading {
+    font-size: 100%;
+}
