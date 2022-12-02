@@ -29,12 +29,13 @@ h1, h2, h3 {
 #main-image {
     height: 400px;
     width: 100%;
-    background-image: url('../css/images/main-image.jpg') no-repeat center center;
+    background: url('../css/images/main-image.jpg') no-repeat center center;
 }
 
 #meet-points {
     font-size: 100%;
     letter-spacing: 4px;
+    
 }
 
 .left-about-heading {
