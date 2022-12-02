@@ -31,6 +31,12 @@ p {
     letter-spacing: 4px;
 }
 
+#mian-image-outer {
+    height: 1000px;
+    width: 100%;
+    overflow: hidden;
+}
+
 #main-image {
     height: 1000px;
     width: 100%;
