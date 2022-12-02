@@ -17,7 +17,7 @@ h1, h2, h3 {
 }
 
 #logo {
-    font-size: 320%;
+    font-size: 300%;
     margin: 0 auto;
 }
 
@@ -27,7 +27,7 @@ h1, h2, h3 {
 }
 
 #main-image {
-    height: 600px;
+    height: 400px;
     width: 100%;
     background-image: url('../css/images/main-image.jpg') no-repeat center center;
 }
@@ -39,4 +39,5 @@ h1, h2, h3 {
 
 .left-about-heading {
     font-size: 100%;
+    
 }
