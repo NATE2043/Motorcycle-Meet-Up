@@ -71,3 +71,8 @@ h1, h2, h3 p {
     right: 150px;
     position: absolute;
 }
+
+.nav, li {
+    display: inline-block;
+    letter-spacing: 4px;
+}
