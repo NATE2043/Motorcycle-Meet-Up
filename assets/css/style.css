@@ -1,79 +1,53 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=Oswald&display=swap');
-
-* {
-    margin: 0;
-    padding: 0;
-    border: none;
-}
-.body {
-    font-family: Lato, sans-serif;
-    font-weight: 300;    
-}
-
-h1, h2, h3 p {
-    font-family: Oswald, sans-serif;
-    text-transform: uppercase;
-    color: darkorange;
-    letter-spacing: 2px;
+body {
+    background-color: black;
     
 }
 
-#logo {
-    font-size: 300%;
-    margin: 0 auto;
+header {
+     background-image: url('../css/images/hero.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+     color: darkorange;
+     font-size: 50px;
+     margin: 30px
+     border: 0;
+     padding: 300px 200px;
+     text-transform: uppercase;
+    
+    }
+
+h2 {
+    font-size: 40px;
+    line-height: 1;
+    text-transform: uppercase;
+    color: darkorange;
 }
 
-#menu {
-    font-size: 150%;
-    letter-spacing: 4px;
-}
-
-#mian-image-outer {
-    height: 1000px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
-
-#cover-text, #cover-text h2 {
+p {
+    font-family: Arial, 'sans-serif';
+    font-size: 25px;
+    line-height: 1.25;
     color: darkorange;
 }
 
-#main-image {
-    height: 600px;
-    width: 100%;
-    background: url('../css/images/main-image.jpg') no-repeat center center / cover;
-    background-size: 1200px;
+footer {
+    height: 150px;
+    display: white;
+    color: darkorange;
+
+}
+.social-networks {
+    text-align: center;
 }
 
-#meet-points {
-    font-size: 100%;
-    letter-spacing: 4px;
-    
+.social-networks > li {    
+    display: inline;
+}
+.social-networks i {       
+    font-size: 180%;    
+    margin: 1%;
+    padding: 5%;
+    color: darkorange;
 }
 
-.left-about-heading {
-    font-size: 100%;
-    
-}
-
-#cover-text {
-    font-size: 300%;
-    font-family: Oswald, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;    
-    width: 820px;
-    height: 190px;
-    padding-top: 40px;
-    padding-left: 10px;
-    background-color: rgba(0, 0, 0, .6a);
-    bottom: 30px;
-    right: 150px;
-    position: absolute;
-}
-
-.nav, li {
-    display: inline-block;
-    letter-spacing: 4px;
-    
-}
