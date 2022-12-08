@@ -9,11 +9,12 @@ header {
      background-size: cover;
      background-position: center;
      color: darkorange;
-     font-size: 50px;
+     font-size: 30px;
      margin: 30px
      border: 0;
      padding: 300px 200px;
      text-transform: uppercase;
+     line-height: 1;
     
     }
 
