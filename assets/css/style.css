@@ -1,24 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
 body {
     background-color: black;
-    
+    font-family: 'copperplate gothic light';    
 }
 
 header {
-     background-image: url('../css/images/hero.jpg');
-     background-repeat: no-repeat;
-     background-size: cover;
      background-position: center;
-     color: darkorange;
-     font-size: 30px;
-     margin: 30px
-     border: 0;
-     padding: 300px 200px;
+     color: darkorange;        
      text-transform: uppercase;
-     line-height: 1;
-    
+     line-height: 1;    
     }
+    
+#logo {
+    float: left;
+    font-size: 250%;
+}
 
-h2 {
+.menu {
+    float: right;
+    font-size: 30px;
+}
+
+h1, h2 {
+    font-family: 'copperplate gothic light';
     font-size: 40px;
     line-height: 1;
     text-transform: uppercase;
@@ -26,18 +34,13 @@ h2 {
 }
 
 p {
-    font-family: Arial, 'sans-serif';
+    font-family: 'copperplate gothic light';
     font-size: 25px;
     line-height: 1.25;
     color: darkorange;
+    text-align: left;
 }
 
-footer {
-    height: 150px;
-    display: white;
-    color: darkorange;
-
-}
 .social-networks {
     text-align: center;
 }
@@ -52,3 +55,13 @@ footer {
     color: darkorange;
 }
 
+a {
+    color: darkorange;
+}
+
+footer {
+    height: 150px;
+    display: white;
+    color: darkorange;
+
+}
