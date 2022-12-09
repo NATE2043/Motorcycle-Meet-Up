@@ -14,6 +14,11 @@ header {
      text-transform: uppercase;
      line-height: 1;    
     }
+
+#header {
+    margin-top: 80px;
+    width: 100%;
+}
     
 #logo {
     float: left;
@@ -92,4 +97,5 @@ footer {
     width: 150%;
     background-image: url('../css/images/hero-image.jpg');
     background-repeat: no-repeat;
+    background-size: auto;
 }
