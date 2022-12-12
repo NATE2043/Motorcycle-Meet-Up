@@ -13,7 +13,8 @@ body {
      background-position: center;
      color: darkorange;        
      text-transform: uppercase;
-     line-height: 1;    
+     line-height: 1;
+     width: 100%;   
     }
 
 #header {
@@ -105,7 +106,16 @@ footer {
 .photos {
     clear: both;
     line-height: 0;
-    column-count: 4;
+    column-count: 1;
+    column-gap: 0;
+    width: 100%;
+    height: auto;
+}
+
+.Photos > img {
+    width: 100%;
+    object-fit: cover;
+    display: block;
 }
 
 @media screen and (max-width: 1200px) {
