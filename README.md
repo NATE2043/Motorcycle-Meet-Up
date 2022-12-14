@@ -1,11 +1,15 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome NATE2043,
+Welcome all to my fist page,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+# Motor Cycle Meet Up
+This meet up website is for motorcycle enthusiasts!
+It's designed to be a friendly place to plan day trips, over nighters to rallys accross the country, tours short and long country wide and accross europe during the summer months.
+In general all the things motorcycle related and just good fun.
+Its a place to make memmories.#
+using this website as apossed to other platforms cam be refreshing without all the other clutter from social media, through the website theres been many friendships made through the commune.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
-
+![responsiveness test]("C:\Users\NRSpo\Pictures\Screenshots\Screenshot_20221214_182017.png")
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
