@@ -89,7 +89,7 @@ a {
 
 footer {
     height: 150px;
-    display: white;
+    color: white;
     color: darkorange;
 }
 
@@ -145,7 +145,7 @@ footer {
 }
 
 @media screen and (max-width: 400px) {
-    body,  {
+    body  {
         width: 90%;
         height: 90%;
     }

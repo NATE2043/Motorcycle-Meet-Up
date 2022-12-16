@@ -8,9 +8,10 @@ It's designed to be a friendly place to plan day trips, over nighters to rallys 
 In general all the things motorcycle related and just good fun.
 Its a place to make memmories.#
 using this website as apossed to other platforms cam be refreshing without all the other clutter from social media, through the website theres been many friendships made through the commune.
-if theres any problems with the code please contact me and just point them out and ill do my very best to fix them right away
+if theres any problems with the code please contact me and just point them out and ill do my very best to fix them right away.
 
-![Responsiveness Test]("images/C:\Users\NRSpo\Pictures\Screenshots\Screenshot_20221214_182017.png")
+![Alt text](assets/css/images/Screenshot_20221214_182017.png)
+
 
 ## Features
 Featured at the top of the page id the logo ( MOTOR CYCLE MEET UP ) and a the nav bar which in the nav bar you can navigate between the 
@@ -20,6 +21,48 @@ GROUP EVENTS,
 sections which is currently empty due to it being december and all events are canceled due to safety reasons.
 The color choosen for this the page and the font was dark orange i think its suits the page and its aspects and its easy to read and is visually pleasing, the fonts are copperplate gothic light as i felt it suits the feel of the page and the type of people who will view this page its nice and sharpe and stands out.
 The navigation is clearly labled for users to easily find there way through the page and the social media links are clickable.
+
+## Heading
+The Heading clearly states the meaning and purpose of the page its in the same font and Colour as the rest of the page as I feel its suits it.
+
+## About 
+The about section explains what the webpage is for and why its been created and what the main goal of the page is.
+
+## Gallery
+the Gallery section show some of the trips taken by people who joined on the days advertised and one one of the lads at a charity even dressed as captin america.
+
+## Group Events
+The Group events sections os where events are posted and anyone who wants to join may come on the day and for anyone who wants to joing the cross country / europe tours details of date time and travel routes will be posted here along with details of transport such as ferry's.
+![Gallery-section first picture of guys riding on duncannon beach](assets/css/images/Screenshot_20221216_161635.png)
+
+## Gallery
+![gallery section code for develpopers](assets/css/images/Screenshot_20221216_161925.png)
+
+## Social Media links
+I've made the social media link interactive so tha the page can be more interactive and user freindly, One must just hover over and see the white line highlighting the social link required and simply click and it will take you to the platform of your choice.
+
+## Testing
+ive checked that the page page looks good and usable on all screen sizes except iphone sizes its i cant figure that one out but i will rectify it asap.
+I used [am i responsive](https://ui.dev/amiresponsive) to checand see if it work and it dose.
+I can confim that the webpage opens in chrome.
+
+## Validator
+I checked the css and its passed, ![CSS checked](assets/css/images/Screenshot_20221216_165438.png)
+I checked the HTML and its passed ![HTML checked](assets/css/images/Screenshot_20221216_170033.png)
+light socres 100% ![lighthouse checked](assets/css/images/Screenshot_20221214_181815.png)
+
+## Deployment
+This page was deployed to github the steps are as follows.
+1. Go to github.com/respositories
+2. Select settings
+3. on the left hand side of the menu you will see "Pages" select that option.
+4. once in github pages section, select the branch section that says none chnage this to main and click save and it will deploy ![branches section](assets/css/images/Screenshot_20221216_171616.png) a
+
+## Content
+the code for the social media link was taken from the love running project from code institue.
+
+## Media
+The media in the webpage was taken from google images. and from bikefest in kilareny a friend who won an award for his bike.
 
 ## Gitpod Reminders
 
