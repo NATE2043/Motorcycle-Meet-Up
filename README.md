@@ -8,8 +8,19 @@ It's designed to be a friendly place to plan day trips, over nighters to rallys 
 In general all the things motorcycle related and just good fun.
 Its a place to make memmories.#
 using this website as apossed to other platforms cam be refreshing without all the other clutter from social media, through the website theres been many friendships made through the commune.
+if theres any problems with the code please contact me and just point them out and ill do my very best to fix them right away
 
-![responsiveness test]("C:\Users\NRSpo\Pictures\Screenshots\Screenshot_20221214_182017.png")
+![Responsiveness Test]("images/C:\Users\NRSpo\Pictures\Screenshots\Screenshot_20221214_182017.png")
+
+## Features
+Featured at the top of the page id the logo ( MOTOR CYCLE MEET UP ) and a the nav bar which in the nav bar you can navigate between the 
+HOME,
+GALLERY,
+GROUP EVENTS,
+sections which is currently empty due to it being december and all events are canceled due to safety reasons.
+The color choosen for this the page and the font was dark orange i think its suits the page and its aspects and its easy to read and is visually pleasing, the fonts are copperplate gothic light as i felt it suits the feel of the page and the type of people who will view this page its nice and sharpe and stands out.
+The navigation is clearly labled for users to easily find there way through the page and the social media links are clickable.
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
